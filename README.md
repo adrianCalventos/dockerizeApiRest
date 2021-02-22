@@ -1,3 +1,7 @@
-mongodb+react+nodejs Docker
+# mongodb+react+nodejs Docker
 
-##docker-compose up --build
+
+With the command 
+> docker-compose up --build
+
+ container with three images will be created, nodejs for the backend, react for the frontend and a mongo image
